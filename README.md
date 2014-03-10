@@ -7,7 +7,8 @@ PHP Library: https://www.stathat.com/downloads/stathat.php
 PHP usage: https://www.stathat.com/code/new/php
 ```
 
-Prepared to be Symfony2 Bundle
+Purpose:
+To use as Symfony2 Bundle
 
 Example
 -------
@@ -23,3 +24,8 @@ for ($i = 0; $i < 20; $i++) {
     $statHat->ezCount('test', $i);
 }
 ```
+
+TODO
+----
+* Add namespace
+* Create Symfony2 Bundle
