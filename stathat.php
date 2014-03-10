@@ -426,7 +426,7 @@ class StatHat
 /**
  * Example
  */
-
+/*
 $statHat = new StatHat(new ASyncStatHat(new StatHatRequest(), array(
     'key' => '***************************',
     'userKey' => '********************',
@@ -437,3 +437,4 @@ for ($i = 0; $i < 20; $i++) {
     $statHat->count('test', $i);
     $statHat->ezCount('test', $i);
 }
+*/
